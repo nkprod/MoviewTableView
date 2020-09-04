@@ -15,7 +15,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Home",
     defaultNavigationOptions: {
-      title: "React Native Application"
+      title: "Movies"
     }
   }
 );

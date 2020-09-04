@@ -19,6 +19,6 @@
 ### Movies Screen
 ![Alt text](/assets/movie_list.jpeg?raw=true "Counter Screen")
 ### Movie Detail Screen
-![Alt text](/assets/movie_list.jpeg?raw=true "Counter Screen")
+![Alt text](/assets/movie_detail.jpeg?raw=true "Counter Screen")
 
 
